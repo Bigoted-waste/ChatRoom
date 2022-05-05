@@ -24,3 +24,10 @@ chatRoom 是由 SpringBoot + MyBatis + HTML5 + Netty（WebSocket）等技术实�
 * HTML5
 * ajax
 * Mui
+
+### 未实现功能
+
+* 手机号登录（验证码功能）
+* 添加Redis缓存
+* 把全局ID改成Redis的全局自增主键
+* 添加Kafka消息队列
